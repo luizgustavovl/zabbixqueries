@@ -1,0 +1,4 @@
+zabbixqueries
+=============
+
+Queries do Zabbix
